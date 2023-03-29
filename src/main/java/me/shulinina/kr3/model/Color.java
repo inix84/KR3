@@ -5,7 +5,8 @@ public enum Color {
     YELLOW("желтый"),
     BROWN("коричневый"),
     WHITE("белый"),
-    BLUE("синий");
+    BLUE("синий"),
+    ORANGE("оранжевый");
     final String translation;
     Color(String translation) {
         this.translation = translation;
